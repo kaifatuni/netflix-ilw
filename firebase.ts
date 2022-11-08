@@ -12,7 +12,8 @@ const firebaseConfig = {
   apiKey: "AIzaSyA9sELYLJbEyl1Fz8luKrCsc3U0RFTakzs",
   authDomain: "netflix-ilw-561a4.firebaseapp.com",
   
-
+  databaseURL: 'https://netflix-ilw-561a4-default-rtdb.firebaseio.com',
+  
   projectId: "netflix-ilw-561a4",
   storageBucket: "netflix-ilw-561a4.appspot.com",
   messagingSenderId: "1082514915095",
