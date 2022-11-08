@@ -55,7 +55,7 @@ function Table({ products, selectedPlan }: Props) {
             </td>
           ))}
         </tr>
-        <tr className="tableRow">
+        {/* <tr className="tableRow">
           <td className="tableDataTitle">
             Watch on your TV, computer, mobile phone and tablet
           </td>
@@ -73,7 +73,7 @@ function Table({ products, selectedPlan }: Props) {
               )}
             </td>
           ))}
-        </tr>
+        </tr> */}
       </tbody>
     </table>
   )
