@@ -29,20 +29,20 @@ function Account({ products }: Props) {
       </Head>
       <header className={`bg-[#141414]`}>
         <Link href="/">
-          <img
+          {/* <img
             src="https://rb.gy/ulxxee"
             width={120}
             height={120}
             className="cursor-pointer object-contain"
-          />
+          /> */}
         </Link>
-        <Link href="/account">
+        {/* <Link href="/account">
           <img
             src="https://rb.gy/g1pwyx"
             alt=""
             className="cursor-pointer rounded"
           />
-        </Link>
+        </Link> */}
       </header>
       <main className="mx-auto max-w-6xl px-5 pt-24 pb-12 transition-all md:px-10">
         <div className="flex flex-col gap-x-4 md:flex-row md:items-center">

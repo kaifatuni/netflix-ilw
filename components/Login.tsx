@@ -35,14 +35,14 @@ function Login() {
         <title>Netflix</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Image
+      {/* <Image
         src="https://rb.gy/p2hphi"
         layout="fill"
         className="-z-10 !hidden opacity-60 sm:!inline"
         objectFit="cover"
-      />
+      /> */}
       <div className="absolute left-2 top-1 h-20 w-44 cursor-pointer md:left-8 md:top-4">
-        <Image src="https://rb.gy/ek4j9f" layout="fill" objectFit="contain" />
+        {/* {/* <Image src="https:///ek4j9f" layout="fill" objectFit="contain" /> */}
       </div>
 
       <form
